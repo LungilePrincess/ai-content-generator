@@ -1,3 +1,2 @@
 # ai-content-generator
-Create powerful content in seconds
-The Content Generator Web Applicationis an advanced, interactive frontend system designed to generate multi-format content, including marketing copy, educational materials, creative writing, and AI-generated images. By bridging the gap between complex AI models and user-friendly interfaces, the application empowers users to produce high-quality assets with minimal effort.
+Create powerful content in seconds . The ContentForge AI Web Applicationis an advanced, interactive frontend system designed to generate multi-format content, including marketing copy, educational materials, creative writing, and AI-generated images. By bridging the gap between complex AI models and user-friendly interfaces, the application empowers users to produce high-quality assets with minimal effort.
