@@ -1,12 +1,24 @@
-# ai-content-generator
-Create powerful content in seconds . The ContentForge AI Web Applicationis an advanced, interactive frontend system designed to generate multi-format content, including marketing copy, educational materials, creative writing, and AI-generated images. By bridging the gap between complex AI models and user-friendly interfaces, the application empowers users to produce high-quality assets with minimal effort.
+# ✍️ AI Content Generator
 
-Frontend interface for an AI-powered content generation web application.
+A lightweight AI content tool that drafts on-brand copy, captions 
+and outlines from a single prompt — ready for human polish.
 
-## Features
-- Modern responsive UI
-- Content generation interface
-- Clean design
+## 🎯 Problem It Solves
+Content creation is time-consuming. This tool uses LLM-based 
+generation to produce quality drafts in seconds.
 
-## Status
-Frontend completed. 
+## 🛠️ Tech Stack
+- HTML / CSS / JavaScript
+- LLM-based generation
+- Lovable (frontend deployment)
+
+## 🔗 Live Demo
+https://content-creator-pro-lungilenzimand.lovable.app/
+
+## 📌 Key Features
+- Multi-format content generation (captions, copy, outlines)
+- Single-prompt input
+- Ready-to-edit output
+
+## 👩🏽‍💻 Author
+Lungile Princess Nzimande — https://insight-forge-088.lovable.app
